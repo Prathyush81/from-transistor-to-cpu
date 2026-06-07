@@ -9,8 +9,13 @@ A collection of digital logic circuits built using BC547 NPN transistors.
 - Build logic gates from discrete components
 - Progress toward adders and digital systems
 
-## Gates Completed
+## Progress
 
+### Documentation
+- [x] Transistor Basics
+- [ ] Digital Logic Basics
+
+### Logic Gates
 - [ ] NOT Gate
 - [ ] NAND Gate
 - [ ] AND Gate
@@ -18,10 +23,24 @@ A collection of digital logic circuits built using BC547 NPN transistors.
 - [ ] OR Gate
 - [ ] XOR Gate
 
-## Advanced Projects
-
+### Arithmetic Circuits
 - [ ] Half Adder
 - [ ] Full Adder
+
+### Sequential Logic
+- [ ] SR Latch
+- [ ] D Flip-Flop
+- [ ] Register
+- [ ] Counter
+
+### CPU Components
+- [ ] ALU
+- [ ] Program Counter
+- [ ] Control Unit
+- [ ] Memory
+
+### Final Project
+- [ ] Simple CPU
 
 ## Components Used
 
