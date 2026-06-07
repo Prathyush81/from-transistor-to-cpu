@@ -40,7 +40,7 @@ Think of the base as a control signal:
 * Base LOW → Transistor OFF
 * Base HIGH → Transistor ON
 
-This switching behavior makes transistors useful for digital electronics.
+This switching behavior makes transistors useful for digital electronic.
 
 ---
 
