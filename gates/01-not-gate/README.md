@@ -28,6 +28,10 @@ A NOT gate inverts the input signal.
 
 ---
 
+## Circuit Diagram
+
+![Circuit Diagram](circuit-diagram.png)
+
 ## How It Works
 
 When the input is LOW, the transistor remains OFF and the LED turns ON.
