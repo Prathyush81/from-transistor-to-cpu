@@ -18,7 +18,7 @@ A single binary digit.
 
 ## Boolean Algebra
 
-A mathematical system used to describe logical operations.
+A mathematical system used to describe logical operations .
 
 ## Collector
 
