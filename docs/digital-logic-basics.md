@@ -9,7 +9,7 @@ Digital electronics is based on binary logic. Instead of working with a continuo
 | 0 (LOW)     | 0V      |
 | 1 (HIGH)    | 9V      |
 
-These two states represent binary digits, also known as bits.
+These two states represent binary digits,  also known as bits.
 
 ---
 
