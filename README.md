@@ -13,10 +13,10 @@ A collection of digital logic circuits built using BC547 NPN transistors.
 
 ### Documentation
 - [x] Transistor Basics
-- [ ] Digital Logic Basics
+- [x] Digital Logic Basics
 
 ### Logic Gates
-- [ ] NOT Gate
+- [x] NOT Gate
 - [ ] NAND Gate
 - [ ] AND Gate
 - [ ] NOR Gate
